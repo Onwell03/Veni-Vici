@@ -1,0 +1,64 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+.ban{
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  overflow-y: scroll;
+  flex-direction: column;
+  align-items: center;
+  background-color: #d2d2d2;
+  color: #000;
+}
+.seen{
+  position: absolute;
+  width: 15%;
+  height: 75%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #d2d2d2b4;
+  color: #000;
+  padding: 15px 15px 15px 10px;
+  margin-top: 5%;
+  display: flex;
+  overflow-y: scroll;
+  flex-direction: column;
+  align-items: center;
+}
+.discover{
+  padding: 30px;
+  text-align: center;
+  background: rgba(49, 49, 49, 87);
+  color: #fff;
+  border-radius: 10px;
+  width: 650px;
+  box-shadow: 0 4px 8px #f5f5f533, 0 6px 20px #fdfdfd30;
+  height: 750px;
+}
+li{
+  list-style: none;
+}
