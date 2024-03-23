@@ -4,7 +4,7 @@ Submitted by: **Onwell Mazorodze**
 
 This web app: **insert description**
 
-Time spent: **18** hours spent in total
+Time spent: **18** hours spent in total 
 
 ## Required Features
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='src/assets/Screen Recording 2024-03-23 at 1.31.13 PM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
